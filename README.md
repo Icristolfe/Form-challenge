@@ -32,9 +32,3 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <br>
 
 [⬆ Voltar ao topo](#Desafio-HTML)<br>
- <style>
-     * {
-         background-color:black;
-         color: red;
-     }
-  </style>
