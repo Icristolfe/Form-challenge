@@ -115,9 +115,10 @@ input:hover{
 }
 
 h2 {
+  
   color: #FFFFFF;
   position: absolute;
   top: -17px;
   padding: 0 4px 0 4px;
-  margin-left: 20px;
+  margin-left: 1000px;
 }
